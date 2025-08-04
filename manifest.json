@@ -1,0 +1,15 @@
+{
+  "name": "TinyMCE Long Text Field Extension",
+  "locations": [
+    {
+      "location": "entry-field",
+      "fieldTypes": ["Text"]
+    }
+  ],
+  "src": "https://your-app-url.com",
+  "oauthScopes": [
+    "content_management_read",
+    "content_management_write",
+    "upload"
+  ]
+}
